@@ -7,3 +7,7 @@ Building Applications for NLP tasks using OpenNLP
 The Project is created with:
 * Java version: 8
 * Apache Maven: 3.3.0
+* IntelliJ IDEA Ultimate
+
+### Features
+Project's features:
